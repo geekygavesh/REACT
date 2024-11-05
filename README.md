@@ -17,3 +17,38 @@
 - Error Handling
 - Tree Shaking -> Remove unused code
 - Diff dev and prod bundles
+
+# Namaste Food
+- /*
+* Header
+*  -Logo 
+*  -Navbar items
+* Body
+*  -Search
+*  -RestaurantContainer
+*   -RestaurantCard
+*      -Logo
+*      -Name , cuisine , rating ✅
+* Footer
+*  -Copyright
+*  -Contact
+*  -About
+*  -Links
+ - */
+
+# Types of import/export
+
+- Default import/export
+    - export default componentname;
+    - import componentname from "path";
+
+- Named import/export
+   - export const Componentname;
+   - import {Componentname} from "path";
+
+
+# React Hooks
+
+    - Normal JS utility Function 
+        - useState()
+        - useEffect()
